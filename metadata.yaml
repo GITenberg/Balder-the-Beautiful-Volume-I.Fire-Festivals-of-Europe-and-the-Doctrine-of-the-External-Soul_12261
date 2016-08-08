@@ -1,0 +1,36 @@
+_repo: Balder-the-Beautiful-Volume-I.Fire-Festivals-of-Europe-and-the-Doctrine-of-the-External-Soul_12261
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frazer, James George
+    aliases:
+    - Frazer, Sir James George
+    - Frazer, J. G. (James George)
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '1241'
+    url: http://www.gutenberg.org/2009/agents/1241
+    wikipedia: http://en.wikipedia.org/wiki/James_Frazer
+description: ''
+gutenberg_bookshelf: Anthropology
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic'
+- !lcc 'BL'
+- !lcsh 'Religion'
+- !lcsh 'Mythology'
+- !lcsh 'Superstition'
+- GITenberg
+title: 'Balder the Beautiful, Volume I.
+
+  A Study in Magic and Religion: the Golden Bough, Part VII., The
+
+  Fire-Festivals of Europe and the Doctrine of the External Soul'
+url: http://www.gutenberg.org/ebooks/12261
